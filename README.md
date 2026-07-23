@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surendra060
 - 👀 I’m interested in ... AI Security & Safe AI development, CyberSecurity, Cloud Security, Network Security, Secure Systems Design
 - 🌱 I’m currently learning ... Cloud Security and AI
-- 💞️ I’m looking to collaborate on ... Interestinng projects in the domain of AI and Cloud Security
+- 💞️ I’m looking to collaborate on ... Interesting projects in the domain of AI and Cloud Security
 
 
 <!---
